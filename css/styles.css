@@ -1,0 +1,32 @@
+body {
+     background-color: #EAF6F6;
+  }
+  /* hr {
+    background-color: white;
+    border-style: solid;
+    height: 2px;
+  }  */
+hr {
+    border-style: none; /* The border-style property may be specified using one, two, three, or four values.
+
+When one value is specified, it applies the same style to all four sides.
+When two values are specified, the first style applies to the top and bottom, the second to the left and right.
+When three values are specified, the first style applies to the top, the second to the left and right, the third to the bottom.
+When four values are specified, the styles apply to the top, right, bottom, and left in that order (clockwise).*/
+    border-top-style: dotted;
+    border-color: Lightgray;
+    border-width: 7px;
+    width: 90px;
+  }
+  /* img {
+    height: 200px;
+  } */
+h1 {
+  color: #66BFBF;
+}
+h2 {
+  color: #66BFBF;
+}
+h3 {
+  color: #66BFBF;
+}
